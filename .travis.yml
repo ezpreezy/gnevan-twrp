@@ -1,6 +1,6 @@
 os: linux
 dist: bionic
-language: android
+language: amd64
 sudo: required
 git:
   depth: 1
